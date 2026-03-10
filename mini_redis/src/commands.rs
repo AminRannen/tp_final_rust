@@ -17,7 +17,6 @@ pub fn handle_command(req: Request, store: &Store) -> Response {
             store.set(key, value);
             Response::ok()
         }
-
         "GET" => {
             let key = match req.key {
                 Some(k) => k,

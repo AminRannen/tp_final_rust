@@ -1,7 +1,7 @@
 # TP Final -- MiniRedis
 
 **Durée : 3h30** | Rust asynchrone | Serveur TCP/JSON
-
+ETUDIANT : Mohamed Amine RANNEN
 ---
 
 ## Objectif
